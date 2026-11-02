@@ -21,6 +21,7 @@ Setup completo do QMK/Vial, keymaps e troubleshooting estão nos docs.
 | Documento | Conteúdo |
 |---|---|
 | [Hardware](docs/HARDWARE.md) | RP2040, matrix 3x4, pinagem e diagrama |
+| [Case 3D](docs/CASE.md) | Projeto SolidWorks no NAS: `case.SLDPRT` e `case.STEP` |
 | [Firmware e build](docs/FIRMWARE.md) | QMK + VIA/Vial, bootloader, features, build e ambiente |
 | [Keymaps e VIA/Vial](docs/KEYMAPS.md) | Keymap `via`, configuração ao vivo, alternativos e backup |
 | [Troubleshooting](docs/TROUBLESHOOTING.md) | Wiring, VIA/Vial, macros, flash e bootloader |

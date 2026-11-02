@@ -1,6 +1,6 @@
 # Hardware
 
-[← Voltar ao README](../README.md) · [Firmware e build](FIRMWARE.md) · [Keymaps](KEYMAPS.md)
+[← Voltar ao README](../README.md) · [Case 3D](CASE.md) · [Firmware e build](FIRMWARE.md) · [Keymaps](KEYMAPS.md)
 
 > Placa RP2040, matrix 3x4, pinagem e diagrama de ligação.
 

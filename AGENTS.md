@@ -2,6 +2,10 @@
 
 Guia para agentes de IA que trabalharem neste projeto.
 
+O `README.md` é um índice. Leia o documento da área em `docs/`
+(`HARDWARE.md`, `FIRMWARE.md`, `KEYMAPS.md`, `TROUBLESHOOTING.md`) conforme a
+tarefa. Não carregue o README inteiro.
+
 ## Visão geral
 
 Macropad de 12 teclas (3x4) com firmware QMK + VIA, rodando em RP2040 via USB.
@@ -139,3 +143,11 @@ a tecla [0,0] deve ser `KC_TRNS` (transparent) para herdar o Tap Dance da Layer 
 - [x] Repeat Key habilitado
 - [x] Backup `.vil` + fluxo backup → flash → restore documentado
 - [x] Troubleshooting documentado
+
+## Documentação
+
+- `README.md` — índice, início rápido e status.
+- `docs/HARDWARE.md` — RP2040, matrix 3x4, pinagem e diagrama.
+- `docs/FIRMWARE.md` — QMK/Vial, bootloader, features, build e ambiente.
+- `docs/KEYMAPS.md` — keymap `via`, configuração ao vivo, alternativos e backup.
+- `docs/TROUBLESHOOTING.md` — wiring, VIA/Vial, macros, flash e bootloader.
